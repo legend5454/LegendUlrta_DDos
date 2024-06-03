@@ -8,7 +8,7 @@ Ultra-DDos was created to destroy bad IP Address, this script is very powerful!
 * `apt install python`
 * `apt install python2`
 * `apt install python3`
-* `git clone https://github.com/mishakorzik/Ultra-DDos`
+* `git clone https://github.com/legend5454/LegendUlrta_DDos`
 * `pip3 install requests`
 
 
